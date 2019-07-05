@@ -4,7 +4,8 @@ import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Index from './components/home.js';
 import About from './components/about.js';
 import Users from './components/users.js';
-
+import App from "./App.js";
+import ./App.js;
 
 function AppRouter() {
   return (
